@@ -20,6 +20,6 @@
    Computers (and phones, and tablets, and websites) are dumb. They can’t think for themselves and can only do exactly what they are told. Sometimes things are made poorly for humans. It’s not always the patrons fault that they can’t get something to work the way they want. Help them find strategies for overcoming this.  
 
 ### Resources
-<a href="https://ask.metafilter.com/224805/How-do-you-spot-an-amateur#3252269">Teaching "Newbies" to use a computer</a>
+<a href="https://ask.metafilter.com/224805/How-do-you-spot-an-amateur#3252269">Teaching "Newbies" to use a computer</a>  
 "How to help someone use a computer" by Phil Agree. Originally at: http://polaris.gseis.ucla.edu/pagre/how-to-help.html
 
