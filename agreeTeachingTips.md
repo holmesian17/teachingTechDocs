@@ -1,22 +1,21 @@
 # How to help someone use a computer.
-## Phil Agre 
-## http://polaris.gseis.ucla.edu/pagre/
+## Phil Agre - http://polaris.gseis.ucla.edu/pagre/
 
 Computer people are fine human beings, but they do a lot of harm in the ways they "help" other people with their computer problems. Now that we're trying to get everyone online, I thought it might be helpful to write down everything I've been taught about helping people use computers.
 
 First you have to tell yourself some things:
 
-  Nobody is born knowing this stuff.
+   Nobody is born knowing this stuff.
 
-You've forgotten what it's like to be a beginner.
+   You've forgotten what it's like to be a beginner.
 
-If it's not obvious to them, it's not obvious.
+   If it's not obvious to them, it's not obvious.
 
-A computer is a means to an end. The person you're helping probably cares mostly about the end. This is reasonable.
+   A computer is a means to an end. The person you're helping probably cares mostly about the end. This is reasonable.
 
-Their knowledge of the computer is grounded in what they can do and see -- "when I do this, it does that". They need to develop a deeper understanding, but this can only happen slowly -- and not through abstract theory but through the real, concrete situations they encounter in their work.
+   Their knowledge of the computer is grounded in what they can do and see -- "when I do this, it does that". They need to develop a deeper understanding, but this can only happen slowly -- and not through abstract theory but through the real, concrete situations they encounter in their work.
 
-Beginners face a language problem: they can't ask questions because they don't know what the words mean, they can't know what the words mean until they can successfully use the system, and they can't successfully use the system because they can't ask questions.
+   Beginners face a language problem: they can't ask questions because they don't know what the words mean, they can't know what the words mean until they can successfully use the system, and they can't successfully use the system because they can't ask questions.
 
 You are the voice of authority. Your words can wound.
 
