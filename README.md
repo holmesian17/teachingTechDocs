@@ -1,6 +1,6 @@
 # Teaching Technology
 
-Tips for Teaching Tech
+### Tips for Teaching Tech
 
 * Don’t overwhelm the person
  ...Help them to achieve the goal at hand, only push to show them more if they express an interest
