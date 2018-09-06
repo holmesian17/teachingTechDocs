@@ -16,7 +16,7 @@
   No one was born knowing how to do any of this. We’ve all learned, and they can too! It doesn’t matter how young, old, or techphobic they proclaim to be, they can become just as savvy as any of us.
 * ##### Assume they’re starting fresh, unless they say otherwise
 
-Don’t assume that they know any technical terms or even what we would consider to be “the basics”. Teach them the fundamentals and the foundation, then they’ll have a good base to build upon as they learn and seek out new things.
+   Don’t assume that they know any technical terms or even what we would consider to be “the basics”. Teach them the fundamentals and the foundation, then they’ll have a good base to build upon as they learn and seek out new things.  
 * ##### Encourage them to write things down
 
    They will be taking in a lot of information and it will be good for them to have notes that they can go back to if they get lost or confused.   
