@@ -21,5 +21,5 @@
 
 ### Resources
 <a href="https://ask.metafilter.com/224805/How-do-you-spot-an-amateur#3252269">Teaching "Newbies" to use a computer</a>
-
+"How to help someone use a computer" by Phil Agree. Originally at: http://polaris.gseis.ucla.edu/pagre/how-to-help.html
 
