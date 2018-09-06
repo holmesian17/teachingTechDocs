@@ -3,7 +3,7 @@
 
 Computer people are fine human beings, but they do a lot of harm in the ways they "help" other people with their computer problems. Now that we're trying to get everyone online, I thought it might be helpful to write down everything I've been taught about helping people use computers.
 
-First you have to tell yourself some things:
+* First you have to tell yourself some things:
 
    Nobody is born knowing this stuff.
 
@@ -17,26 +17,26 @@ First you have to tell yourself some things:
 
    Beginners face a language problem: they can't ask questions because they don't know what the words mean, they can't know what the words mean until they can successfully use the system, and they can't successfully use the system because they can't ask questions.
 
-You are the voice of authority. Your words can wound.
+   You are the voice of authority. Your words can wound.
 
-Computers often present their users with textual messages, but the users often don't read them.
+   Computers often present their users with textual messages, but the users often don't read them.
 
-By the time they ask you for help, they've probably tried several things. As a result, their computer might be in a strange state. This is natural.
+   By the time they ask you for help, they've probably tried several things. As a result, their computer might be in a strange state. This is natural.
 
-They might be afraid that you're going to blame them for the problem.
+   They might be afraid that you're going to blame them for the problem.
 
-The best way to learn is through apprenticeship -- that is, by doing some real task together with someone who has a different set of skills.
+   The best way to learn is through apprenticeship -- that is, by doing some real task together with someone who has a different set of skills.
 
-Your primary goal is not to solve their problem. Your primary goal is to help them become one notch more capable of solving their problem on their own. So it's okay if they take notes.
+   Your primary goal is not to solve their problem. Your primary goal is to help them become one notch more capable of solving their problem on their own. So it's okay if they take notes.
 
-Most user interfaces are terrible. When people make mistakes it's usually the fault of the interface. You've forgotten how many ways you've learned to adapt to bad interfaces.
+   Most user interfaces are terrible. When people make mistakes it's usually the fault of the interface. You've forgotten how many ways you've learned to adapt to bad interfaces.
 
-Knowledge lives in communities, not individuals. A computer user who's part of a community of computer users will have an easier time than one who isn't.
+   Knowledge lives in communities, not individuals. A computer user who's part of a community of computer users will have an easier time than one who isn't.
 
-Having convinced yourself of these things, you are more likely to follow some important rules:
+   Having convinced yourself of these things, you are more likely to follow some important rules:
 Don't take the keyboard. Let them do all the typing, even if it's slower that way, and even if you have to point them to every key they need to type. That's the only way they're going to learn from the interaction.
 
-Find out what they're really trying to do. Is there another way to go about it?
+   Find out what they're really trying to do. Is there another way to go about it?
 
 Maybe they can't tell you what they've done or what happened. In this case you can ask them what they are trying to do and say, "Show me how you do that".
 
