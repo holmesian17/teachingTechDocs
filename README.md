@@ -3,9 +3,9 @@
 ### Tips for Teaching Tech
 
 * ##### Don’t overwhelm the person
-   Help them to achieve the goal at hand, only push to show them more if they express an interest.  
+   Help them to achieve the goal at hand, only push to show them more if they express an interest.
 * ##### Patience, patience, patience
-    It can be frustrating when technology doesn’t work like you want it to and you can’t figure out why. It can be twice as frustrating watching someone have this problem. Gently guide the person towards the solution, but don’t take control.  
+    It can be frustrating when technology doesn’t work like you want it to and you can’t figure out why. It can be twice as frustrating watching someone have this problem. Gently guide the person towards the solution, but don’t take control.
 * ##### Don’t do it for them
   Show them where to go, how to navigate, and let them do the clicking and typing, no matter how slow or ineffective it might be. For the learner, practice makes perfect.
 * ##### Reassure them
