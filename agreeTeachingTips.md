@@ -1,10 +1,12 @@
-How to help someone use a computer.
-Phil Agre 
-http://polaris.gseis.ucla.edu/pagre/
+# How to help someone use a computer.
+## Phil Agre 
+## http://polaris.gseis.ucla.edu/pagre/
+
 Computer people are fine human beings, but they do a lot of harm in the ways they "help" other people with their computer problems. Now that we're trying to get everyone online, I thought it might be helpful to write down everything I've been taught about helping people use computers.
+
 First you have to tell yourself some things:
 
-Nobody is born knowing this stuff.
+  Nobody is born knowing this stuff.
 
 You've forgotten what it's like to be a beginner.
 
